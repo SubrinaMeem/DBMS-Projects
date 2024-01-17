@@ -182,7 +182,7 @@ INSERT INTO book_copies(copies_id,book_id,branch_id,total_copies)
     	("","1","5","900");
 
 
-INSERT INTO auther(auther_id,book_id,auther_name)
+INSERT INTO author(author_id,book_id,author_name)
 	VALUES
 	("","5","Teeri"),
 	("","4","Hayate"),
